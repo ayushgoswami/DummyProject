@@ -3,4 +3,4 @@ class DummyProject:
     pass
   
   def testme(self):
-    print("testing me")
+    return "testing me"
