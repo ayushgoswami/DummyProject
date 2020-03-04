@@ -1,6 +1,6 @@
 class DummyProject:
-  def __init__():
+  def __init__(self):
     pass
   
-  def testme():
+  def testme(self):
     print("testing me")
