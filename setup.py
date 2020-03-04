@@ -29,6 +29,7 @@ Framework :: Robot Framework :: Library
 
 setup(
     name='robotframework-dummyproject',
+    version='1.0.0',
     description='Robot Framework test library for SSH and SFTP',
     author='Robot Framework Developers',
     author_email='ayushgoswami21@gmail.com',
