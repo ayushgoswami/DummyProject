@@ -1,2 +1,6 @@
-def testme():
-  print("testing me")
+class DummyProject:
+  def __init__():
+    pass
+  
+  def testme():
+    print("testing me")
