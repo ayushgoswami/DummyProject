@@ -39,5 +39,5 @@ setup(
     classifiers=CLASSIFIERS,
     install_requires=REQUIREMENTS,
     package_dir={'': '.'},
-    packages=['DummyLibrary']
+    packages=['DummyProject']
 )
